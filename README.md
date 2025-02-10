@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hey there! I'm Youle 👋 </h2>
-    <img src="https://github.com/user-attachments/assets/dacd2836-11d9-4511-9199-8a7a2d6f8c87">
+    <img src="https://github.com/user-attachments/assets/dacd2836-11d9-4511-9199-8a7a2d6f8c87" width="650" height="250" >
 </div>
 <br>
 <h2> About me </h2>
