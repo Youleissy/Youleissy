@@ -1,10 +1,10 @@
-<h2> Hey there! I'm Youle 👋</h2>
+<div align="center">
+  <h2>Hey there! I'm Youle 👋</h2>
+    <img src="https://github.com/user-attachments/assets/dacd2836-11d9-4511-9199-8a7a2d6f8c87">
+</div>
 
-<!--
-**Youleissy/Youleissy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
