@@ -9,7 +9,7 @@
 - 🔭 I'm Working in Marketing Metrics Project
 - 🌱 I’m currently learning data analyst tools
 - 👯 I’m looking to collaborate on business development through data
-- 🤔 I’m currently open for: a new <b>job opportunity
+- 🤔 I’m currently open for: a new <b>job opportunity</b>
 - ❤️ I enjoy share my knowledge with others
 
 <br>
